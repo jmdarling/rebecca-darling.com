@@ -1,0 +1,16 @@
+{
+  "name": "rebecca-darling.com",
+  "version": "1",
+  "homepage": "https://github.com/jmdarling/rebecca-darling.com",
+  "authors": [
+    "Jonathan Darling <jmdarling@me.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
